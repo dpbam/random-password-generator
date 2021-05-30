@@ -6,17 +6,17 @@ This was an immensely challenging Challenge which pushed me to ask for help from
 
 ## This webpage is built with
 
-HTML
-CSS
-Javascript
+- HTML
+- CSS
+- Javascript
 
 ## Got help from
 
-TAs
-Other students
-https://www.youtube.com/watch?v=duNmhKgtcsI
-https://www.google.com/search?sxsrf=ALeKk00eGsRkvCphHBedip_yvxdCJHfNKA%3A1596071320531&source=hp&ei=mB0iX8TOHYiWsAWE7JmwBQ&q=random+password+generator+javascript&btnK=Google+Search&oq=how+to+copy+Chrome+&gs_lcp=CgZwc3ktYWIQAxgGMgIIADICCAAyAggAMgIIADICCAAyAggAMgIIADICCAAyAggAMgIIADoECCMQJzoLCC4QsQMQxwEQowI6CAgAELEDEIMBOgUIABCxAzoICC4QxwEQowI6AgguUJMXWKpIYKGRAWgAcAB4AIABqQGIAb0NkgEEMTQuNZgBAKABAaoBB2d3cy13aXo&sclient=psy-ab
-https://www.javascripttutorial.net/javascript-for-loop/
+- TAs
+- Other students
+- https://www.youtube.com/watch?v=duNmhKgtcsI
+- https://www.google.com/search?sxsrf=ALeKk00eGsRkvCphHBedip_yvxdCJHfNKA%3A1596071320531&source=hp&ei=mB0iX8TOHYiWsAWE7JmwBQ&q=random+password+generator+javascript&btnK=Google+Search&oq=how+to+copy+Chrome+&gs_lcp=CgZwc3ktYWIQAxgGMgIIADICCAAyAggAMgIIADICCAAyAggAMgIIADICCAAyAggAMgIIADoECCMQJzoLCC4QsQMQxwEQowI6CAgAELEDEIMBOgUIABCxAzoICC4QxwEQowI6AgguUJMXWKpIYKGRAWgAcAB4AIABqQGIAb0NkgEEMTQuNZgBAKABAaoBB2d3cy13aXo&sclient=psy-ab
+- https://www.javascripttutorial.net/javascript-for-loop/
 
 ## Images of 8 character password and 128 character password
 
